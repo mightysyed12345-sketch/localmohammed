@@ -6,7 +6,7 @@ following two simultaneously
 
 # github 
 first add 
-commit 
+commit : conform the changes we want i repos
 push 
 are the three steps for the updating or changing 
 of the files for github repos 
